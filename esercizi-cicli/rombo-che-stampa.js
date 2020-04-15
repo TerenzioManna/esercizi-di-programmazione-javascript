@@ -1,8 +1,6 @@
 /*
   Rombo che stampa!
-  Scrivi un programma che dato un numero dispari stampi un rombo di lettere.
-
-  Esempio:
+  Scrivi un programma che riceva in input un numero dispari e stampi un rombo di lettere partendo dal valore, in questo modo:
     Input : 5
     Output:
             X
@@ -10,9 +8,6 @@
           XXXXX
            XXX
             X
-
-  Consiglio:
-  Per indentare puoi usare il tab con '\t'.
-  
+  Hint: per indentare puoi usare il tab con '\t'.
   http://www.imparareaprogrammare.it
 */
